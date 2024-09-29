@@ -7,3 +7,5 @@ Download the .vxdz file
 Open it using EcoStruxure Operator Terminal Expert 4.0.
 ### Step 3:
 In EcoStruxure Operator Terminal Expert 4.0, import this project and then enjoy!
+
+![alt text](image.png)
